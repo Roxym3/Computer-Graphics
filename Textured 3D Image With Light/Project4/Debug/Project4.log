@@ -1,0 +1,19 @@
+﻿  Project4.cpp
+D:\Project\Computer Graphics\Textured 3D Image With Light\Project4\Bitmap.h(21,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“Project4.cpp”)
+  
+  cgCube.cpp
+  cgCylinder.cpp
+  cgPoint3D.cpp
+  cgProgram.cpp
+  cgQuad.cpp
+  cgSkybox.cpp
+  cgSphere.cpp
+  cgTriangle.cpp
+  正在生成代码...
+  LINK : 没有找到 D:\Project\Computer Graphics\Textured 3D Image With Light\Debug\Project4.exe 或上一个增量链接没有生成它；正在执行完全链接
+SOIL32d.lib(image_DXT.obj) : warning LNK4099: 未找到 PDB“”(使用“SOIL32d.lib(image_DXT.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL32d.lib(image_helper.obj) : warning LNK4099: 未找到 PDB“”(使用“SOIL32d.lib(image_helper.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL32d.lib(SOIL.obj) : warning LNK4099: 未找到 PDB“”(使用“SOIL32d.lib(SOIL.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL32d.lib(stb_image_aug.obj) : warning LNK4099: 未找到 PDB“”(使用“SOIL32d.lib(stb_image_aug.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  Project4.vcxproj -> D:\Project\Computer Graphics\Textured 3D Image With Light\Debug\Project4.exe
